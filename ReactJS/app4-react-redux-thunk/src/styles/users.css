@@ -1,0 +1,82 @@
+.formDisplay {
+    width: 300px;
+    margin: 0 auto;
+  }
+
+  .formDisplay label {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+  .formDisplay input {
+    width: calc(100% - 10px);
+    margin-bottom: 10px;
+    padding: 11px;
+    border-radius: 10px;
+    border: 2px solid black;
+  }
+
+  .formDisplay button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+
+  .formDisplay button:hover {
+    background-color: #0056b3;
+  }
+
+  .tableDisplay {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .tableDisplay table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .tableDisplay th, .tableDisplay td {
+    padding: 8px;
+    text-align: left;
+  }
+
+  .tableDisplay th {
+    background-color: lightgray;
+  }
+
+  .tableDisplay tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  .tableDisplay tbody tr:hover {
+    background-color: wheat
+  }
+
+
+  /* Media queries for responsiveness */
+@media screen and (max-width: 600px) {
+    .tableDisplay th, .tableDisplay td {
+      font-size: 12px;
+    }
+
+    .tableDisplay button {
+      font-size: 12px;
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    .tableDisplay th, .tableDisplay td {
+      font-size: 10px;
+    }
+
+    .tableDisplay button {
+      font-size: 10px;
+    }
+  }
