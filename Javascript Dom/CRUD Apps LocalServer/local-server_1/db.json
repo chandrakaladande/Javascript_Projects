@@ -1,0 +1,423 @@
+{
+  "users": [
+    {
+      "id": "95b1",
+      "fname": "geetha",
+      "email": "geetha@gmail.com",
+      "state": "Karnataka",
+      "dob": "2024-02-05",
+      "subjects": [
+        "Html",
+        "Css"
+      ],
+      "gender": "male"
+    },
+    {
+      "id": "b360",
+      "fname": "ravi",
+      "email": "cde@gmail.com",
+      "state": "Karnataka",
+      "dob": "2024-02-04",
+      "subjects": [
+        "Html",
+        "Css",
+        "Javascript"
+      ],
+      "gender": "male"
+    },
+    {
+      "id": "1",
+      "fname": "kala",
+      "email": "jhsdk@gmail.com",
+      "state": "Karnataka",
+      "dob": "2024-01-28",
+      "subjects": [
+        "Html",
+        "Css",
+        "Javascript"
+      ],
+      "gender": "female"
+    }
+  ],
+  "people": [
+    {
+      "id": "1",
+      "fname": "yochan",
+      "email": "jhsdk@gmail.com",
+      "state": "Karnataka",
+      "dob": "2024-01-28",
+      "subjects": [
+        "Html"
+      ],
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "fname": "chandrakala",
+      "email": "chandrakaladande1505@gmail.com",
+      "state": "Karnataka",
+      "dob": "2023-07-11",
+      "subjects": [
+        "Css",
+        "Javascript"
+      ],
+      "gender": "female"
+    },
+    {
+      "id": "45",
+      "fname": "naniii",
+      "email": "nani@gmail.com",
+      "state": "AndhraPradesh",
+      "dob": "2024-01-31",
+      "subjects": [
+        "Css"
+      ],
+      "gender": "male"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "fname": "chandrakala",
+      "email": "chandrakaladande1505@gmail.com",
+      "password": "jfh",
+      "confirmpassword": "jfh",
+      "dob": "2001-07-23",
+      "gender": "female",
+      "address": "tadipatri",
+      "interests": [
+        "Reading",
+        "Sports",
+        "Music"
+      ],
+      "date": "2024-01-29",
+      "time": "11:52"
+    }
+  ],
+  "todolist": [
+    {
+      "id": "e56c",
+      "title": "todoapp",
+      "priority": "medium",
+      "duedate": "2024-01-30",
+      "description": "todo using crud with localserver"
+    },
+    {
+      "id": "jkhk",
+      "title": "Bom",
+      "priority": "high",
+      "duedate": "2024-01-30",
+      "description": "Bom with localserver"
+    },
+    {
+      "id": "15",
+      "title": "todoapp",
+      "priority": "medium",
+      "duedate": "2024-01-30",
+      "description": "todo using crud with local server"
+    }
+  ],
+  "newUsers": [
+    {
+      "id": "e9e8",
+      "fname": "chandrakla",
+      "email": "chandrakaladande1505@gmail.com",
+      "password": "kala"
+    },
+    {
+      "id": "1ef4",
+      "fname": "chandrakala",
+      "email": "chandrakaladande1505@gmail.com",
+      "password": "nani"
+    },
+    {
+      "id": "34f1",
+      "fname": "shanti",
+      "email": "shanti@gmail.com",
+      "password": "asdf"
+    },
+    {
+      "id": "b8a3",
+      "fname": "chandrakala",
+      "email": "chandrakaladande1505@gmail.com",
+      "password": "kala"
+    },
+    {
+      "id": "d18f",
+      "fname": "chandrakala",
+      "email": "chandrakaladande1505@gmail.com",
+      "password": "nani"
+    }
+  ],
+  "student": [
+    {
+      "fname": "kjn",
+      "email": "JNKJ",
+      "age": "21",
+      "occupation": "Student",
+      "answer": "yes",
+      "languages": [
+        "java"
+      ],
+      "message": "JBKC",
+      "id": "6751"
+    },
+    {
+      "id": "a4a2",
+      "fname": "kala",
+      "email": "kala@gmail.com",
+      "age": "21",
+      "occupation": "Student",
+      "answer": "yes",
+      "languages": [
+        "c++"
+      ],
+      "message": "nothing"
+    },
+    {
+      "id": "0dcf",
+      "fname": "kala",
+      "email": "kala@gmail.com",
+      "age": "21",
+      "occupation": "Student",
+      "answer": "yes",
+      "languages": [
+        "c++"
+      ],
+      "message": "nothing"
+    },
+    {
+      "id": "d3c6",
+      "fname": "chandrakala",
+      "email": "chandrakala@gmail.com",
+      "age": "21",
+      "occupation": "Student",
+      "answer": "yes",
+      "languages": [
+        "c",
+        "c++"
+      ],
+      "message": "nothing"
+    },
+    {
+      "fname": "kala",
+      "email": "kala@gmail.com",
+      "age": "23",
+      "occupation": "designer",
+      "answer": "yes",
+      "languages": [
+        "c",
+        "c++",
+        "java"
+      ],
+      "message": "nothing",
+      "id": "1756"
+    },
+    {
+      "id": "002d",
+      "fname": "chandrakala",
+      "email": "chandrakala@gmail.com",
+      "age": "21",
+      "occupation": "designer",
+      "answer": "yes",
+      "languages": [
+        "c",
+        "JavaScript",
+        "react"
+      ],
+      "message": "cvvvvvvvvvvvv"
+    },
+    {
+      "id": "b55a",
+      "fname": "chandrakala",
+      "email": "chandrakala@gmail.com",
+      "age": "21",
+      "occupation": "designer",
+      "answer": "yes",
+      "languages": [
+        "c",
+        "JavaScript",
+        "react"
+      ],
+      "message": "cvvvvvvvvvvvv"
+    }
+  ],
+  "details": [
+    {
+      "id": "23a9",
+      "firstname": "chandrakala",
+      "lastname": "dande",
+      "email": "chandrakaladande1505@gmail.com",
+      "phone": "9182208732",
+      "address": "4/678",
+      "address2": "Tadipatri",
+      "state": "andhra pradesh",
+      "country": "India",
+      "post": "515411",
+      "area": "515411",
+      "supportCheckbox": "on"
+    },
+    {
+      "id": "b9ce",
+      "firstname": "chandrakala",
+      "lastname": "dande",
+      "email": "chandrakaladande1505@gmail.com",
+      "phone": "9182208732",
+      "address": "4/678",
+      "address2": "Tadipatri",
+      "state": "andhra pradesh",
+      "country": "India",
+      "post": "515411",
+      "area": "515411",
+      "supportCheckbox": null
+    },
+    {
+      "firstname": "chandrakala",
+      "lastname": "dande",
+      "email": "chandrakaladande1505@gmail.com",
+      "phone": "9182208732",
+      "address": "4/678",
+      "address2": "Tadipatri",
+      "state": "andhra pradesh",
+      "country": "India",
+      "post": "515411",
+      "area": "515411",
+      "supportCheckbox": "yes",
+      "id": "72b9"
+    },
+    {
+      "id": "c21c",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "address2": "",
+      "state": "",
+      "country": "",
+      "post": "",
+      "area": "",
+      "supportCheckbox": null
+    },
+    {
+      "id": "b5a4",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "address2": "",
+      "state": "",
+      "country": "",
+      "post": "",
+      "area": "",
+      "supportCheckbox": "yes"
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "address2": "",
+      "state": "",
+      "country": "",
+      "post": "515411",
+      "area": "",
+      "supportCheckbox": null,
+      "id": "86a8"
+    }
+  ],
+  "quesForm": [
+    {
+      "id": "d5a6",
+      "firstname": "chandrakala",
+      "lastname": "dande",
+      "qusone": "option One",
+      "qustwo": null,
+      "qusthree": null
+    },
+    {
+      "id": "53d0",
+      "firstname": "",
+      "lastname": "",
+      "qusone": null,
+      "qustwo": null,
+      "qusthree": null
+    },
+    {
+      "id": "9324",
+      "firstname": "chandrakala",
+      "lastname": "dande",
+      "qusone": "option One",
+      "qustwo": null,
+      "qusthree": null
+    }
+  ],
+  "userdetails": [
+    {
+      "name": "chandrakala",
+      "phone": "9182208732",
+      "email": "chandrakaladande1505@gmail.com",
+      "date": "2024-01-28",
+      "time": "11:42",
+      "area": "cvr palem",
+      "city": "ananthapur",
+      "state": "andhra pradesh",
+      "postcode": "51541187980",
+      "id": "5990"
+    }
+  ],
+  "crud": [
+    {
+      "id": "0bb9",
+      "fname": "",
+      "email": "",
+      "gender": "",
+      "areasOfInterest": [],
+      "state": ""
+    },
+    {
+      "id": "4d4c",
+      "fname": "",
+      "email": "",
+      "gender": "",
+      "areasOfInterest": [],
+      "state": ""
+    },
+    {
+      "id": "2062",
+      "fname": "",
+      "email": "",
+      "gender": "",
+      "areasOfInterest": [],
+      "state": ""
+    },
+    {
+      "id": "4316",
+      "fname": "yochan",
+      "email": "cde@gmail.com",
+      "gender": "Male",
+      "areasOfInterest": [
+        "HTML"
+      ],
+      "state": "TN"
+    },
+    {
+      "id": "ba17",
+      "fname": "",
+      "email": "",
+      "gender": "",
+      "areasOfInterest": [],
+      "state": "TN"
+    },
+    {
+      "id": "3a87",
+      "fname": "",
+      "email": "",
+      "gender": "",
+      "areasOfInterest": [],
+      "state": "AP"
+    }
+  ]
+}
