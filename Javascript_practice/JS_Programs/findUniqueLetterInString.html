@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // Define the function
+      function findUniqueLetters(str) {
+        const uniqueLetters = [];
+
+        for (let char of str) {
+          if (uniqueLetters.indexOf(char) === -1 && /^[a-zA-Z]$/.test(char)) {
+            uniqueLetters.push(char);
+          }
+        }
+
+        return uniqueLetters;
+      }
+    // Single String
+    //   var string = "madam";
+    //   var result = findUniqueLetters(string);
+    //   console.log(result);
+
+    // Pass as an Array
+    var stringArr = ["madam","helloworld"];
+    stringArr.forEach((str)=>{
+         console.log(findUniqueLetters(str).join(","))
+    })
+
+    </script>
+  </body>
+</html>
