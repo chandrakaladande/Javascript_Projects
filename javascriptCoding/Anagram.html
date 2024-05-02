@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function isAnagram(str1, str2){
+           var sortedStr1 = str1.split('').sort().join('').toLowerCase();
+           var sortedStr2 = str2.split('').sort().join('').toLowerCase();
+
+           if(sortedStr1 == sortedStr2){
+             console.log("Given String is a Anagram")
+           }
+           else{
+            console.log("Given string is not a Anagram")
+           }
+          return (sortedStr1 === sortedStr2)
+        }
+        console.log(isAnagram('hello','eholl'));
+        console.log(isAnagram('hello','egllo'))
+
+    </script>
+</body>
+</html>
